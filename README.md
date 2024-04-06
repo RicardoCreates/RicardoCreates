@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m currently doing a Web Development course @neue fische
+<h1>Hey.... I am a fresh frontendd developer....</h1>
 
 
 # 💻 Tech Stack:
