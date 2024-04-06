@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hey.... I am a fresh frontendd developer....</h1>
+<h1>Hey.... I am a fresh frontend developer....</h1>
 
 
 # 💻 Tech Stack:
