@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hey, I am a fresh frontend developer. Just finishing my coding bootcamp @neuefische
+🌱 Hi there! I'm Ricardo, a passionate and enthusiastic frontend developer. I recently completed an intensive coding bootcamp at neuefische and I'm excited to start my journey in the tech world.
 
 
 # 💻 Tech Stack:
